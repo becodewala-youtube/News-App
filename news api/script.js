@@ -5,7 +5,7 @@ const categorySelect = document.getElementById("category-select");
 const newsContainer = document.getElementById("news-container");
 
 // Define the API key and the base URL
-const apiKey = "9be04864ec3e45c181d289bd41bfd8de"; // Replace with your own API key from https://newsapi.org/
+const apiKey = "API_KEY"; // Replace with your own API key from https://newsapi.org/
 const baseUrl = "https://newsapi.org/v2/";
 
 // Define a function to fetch and display the news articles
